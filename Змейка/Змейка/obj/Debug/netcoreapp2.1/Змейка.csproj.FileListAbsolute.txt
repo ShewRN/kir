@@ -1,0 +1,16 @@
+Z:\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.csprojAssemblyReference.cache
+Z:\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.csproj.CoreCompileInputs.cache
+Z:\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.AssemblyInfoInputs.cache
+Z:\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.AssemblyInfo.cs
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\bin\Debug\netcoreapp2.1\Змейка.deps.json
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\bin\Debug\netcoreapp2.1\Змейка.runtimeconfig.json
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\bin\Debug\netcoreapp2.1\Змейка.runtimeconfig.dev.json
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\bin\Debug\netcoreapp2.1\Змейка.dll
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\bin\Debug\netcoreapp2.1\Змейка.pdb
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.csprojAssemblyReference.cache
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.csproj.CoreCompileInputs.cache
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.AssemblyInfoInputs.cache
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.AssemblyInfo.cs
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.dll
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.pdb
+D:\Кирилл\Учеба\РКИС\Змейка\Змейка\obj\Debug\netcoreapp2.1\Змейка.genruntimeconfig.cache
